@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{E85A5F7F-DA7D-417F-A8AE-3138C03121DE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Hyperledger.Aries.Routing.Edge/EdgeConnectionService.cs">
+    <Files>
+      <File FileName="Osma.Mobile.App/ViewModels/Connections/AcceptInviteViewModel.cs" Line="67" Column="15" />
+      <File FileName="Osma.Mobile.App/ViewModels/Connections/ConnectionsViewModel.cs" />
+      <File FileName="Osma.Mobile.App/App.xaml.cs" Line="40" Column="77" />
+      <File FileName="Osma.Mobile.App/ViewModels/CreateInvitation/CreateInvitationViewModel.cs" Line="48" Column="44" />
+      <File FileName="Osma.Mobile.App/ViewModels/RegisterViewModel.cs" Line="42" Column="57" />
+      <File FileName="Osma.Mobile.App.Services/AgentContextService.cs" Line="111" Column="44" />
+      <File FileName="Osma.Mobile.App.Services/ServicesModule.cs" Line="20" Column="25" />
+      <File FileName="Osma.Mobile.App.Services/Interfaces/IAgentContextService.cs" Line="7" Column="22" />
+      <File FileName="Hyperledger.Aries.Routing.Edge/EdgeClientService.cs" Line="59" Column="14" />
+      <File FileName="Hyperledger.Aries.Routing.Edge/EdgeProvisioningService.cs" Line="79" Column="51" />
+      <File FileName="Hyperledger.Aries.Routing.Edge/EdgeConnectionService.cs" Line="36" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="osma-mobile-app" expanded="True">
+            <Node name="Hyperledger.Aries" expanded="True">
+              <Node name="Configuration" expanded="True" />
+            </Node>
+            <Node name="Hyperledger.Aries.Routing.Edge" expanded="True">
+              <Node name="EdgeConnectionService.cs" selected="True" />
+            </Node>
+            <Node name="Osma.Mobile.App" expanded="True">
+              <Node name="ViewModels" expanded="True">
+                <Node name="Connections" expanded="True" />
+                <Node name="CreateInvitation" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" />
+            </Node>
+            <Node name="Osma.Mobile.App.Services" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Interfaces" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Osma.Mobile.App.Android PreferredExecutionTarget="Android.192.168.0.102:5555" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/ravitejasriram/Documents/ProjectOsmaNew/osma</String>
+  </Debugger.DebugSourceFolders>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

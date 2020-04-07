@@ -1,0 +1,17 @@
+/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Osma.Mobile.App.Services/bin/Debug/netstandard2.0/Osma.Mobile.App.Services.deps.json
+/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Osma.Mobile.App.Services/bin/Debug/netstandard2.0/Osma.Mobile.App.Services.dll
+/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Osma.Mobile.App.Services/bin/Debug/netstandard2.0/Osma.Mobile.App.Services.pdb
+/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Osma.Mobile.App.Services/bin/Debug/netstandard2.0/Hyperledger.Aries.Routing.dll
+/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Osma.Mobile.App.Services/bin/Debug/netstandard2.0/Hyperledger.Aries.Routing.Edge.dll
+/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Osma.Mobile.App.Services/bin/Debug/netstandard2.0/Hyperledger.Aries.Routing.Edge.pdb
+/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Osma.Mobile.App.Services/bin/Debug/netstandard2.0/Hyperledger.Aries.Routing.pdb
+/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Osma.Mobile.App.Services/obj/Debug/netstandard2.0/Osma.Mobile.App.Services.csprojAssemblyReference.cache
+/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Osma.Mobile.App.Services/obj/Debug/netstandard2.0/Osma.Mobile.App.Services.csproj.CoreCompileInputs.cache
+/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Osma.Mobile.App.Services/obj/Debug/netstandard2.0/Osma.Mobile.App.Services.AssemblyInfoInputs.cache
+/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Osma.Mobile.App.Services/obj/Debug/netstandard2.0/Osma.Mobile.App.Services.AssemblyInfo.cs
+/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Osma.Mobile.App.Services/obj/Debug/netstandard2.0/Osma.Mobile.App.Services.csproj.CopyComplete
+/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Osma.Mobile.App.Services/obj/Debug/netstandard2.0/Osma.Mobile.App.Services.dll
+/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Osma.Mobile.App.Services/obj/Debug/netstandard2.0/Osma.Mobile.App.Services.pdb
+/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Osma.Mobile.App.Services/bin/Debug/netstandard2.0/Hyperledger.Aries.dll
+/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Osma.Mobile.App.Services/bin/Debug/netstandard2.0/Hyperledger.Aries.pdb
+/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Osma.Mobile.App.Services/bin/Debug/netstandard2.0/Hyperledger.Aries.xml

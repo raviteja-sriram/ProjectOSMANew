@@ -1,0 +1,163 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Hyperledger.Aries.Routing/Hyperledger.Aries.Routing.csproj": {}
+  },
+  "projects": {
+    "/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Hyperledger.Aries.Routing/Hyperledger.Aries.Routing.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Hyperledger.Aries.Routing/Hyperledger.Aries.Routing.csproj",
+        "projectName": "Hyperledger.Aries.Routing",
+        "projectPath": "/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Hyperledger.Aries.Routing/Hyperledger.Aries.Routing.csproj",
+        "packagesPath": "/Users/ravitejasriram/.nuget/packages/",
+        "outputPath": "/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Hyperledger.Aries.Routing/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/NuGet.Config",
+          "/Users/ravitejasriram/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/agent-framework/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {
+              "/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Hyperledger.Aries/Hyperledger.Aries.csproj": {
+                "projectPath": "/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Hyperledger.Aries/Hyperledger.Aries.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Multiformats.Base": {
+              "target": "Package",
+              "version": "[2.0.2, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Hyperledger.Aries/Hyperledger.Aries.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Hyperledger.Aries/Hyperledger.Aries.csproj",
+        "projectName": "Hyperledger.Aries",
+        "projectPath": "/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Hyperledger.Aries/Hyperledger.Aries.csproj",
+        "packagesPath": "/Users/ravitejasriram/.nuget/packages/",
+        "outputPath": "/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Hyperledger.Aries/obj/",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "configFilePaths": [
+          "/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/NuGet.Config",
+          "/Users/ravitejasriram/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/agent-framework/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Flurl": {
+              "target": "Package",
+              "version": "[2.8.2, )"
+            },
+            "Hyperledger.Indy.Sdk": {
+              "target": "Package",
+              "version": "[1.11.1, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Stateless": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "System.Reactive.Linq": {
+              "target": "Package",
+              "version": "[4.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

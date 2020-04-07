@@ -1,0 +1,7 @@
+/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Osma.Mobile.App.Services/bin/Release/netstandard2.0/Osma.Mobile.App.Services.deps.json
+/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Osma.Mobile.App.Services/bin/Release/netstandard2.0/Osma.Mobile.App.Services.dll
+/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Osma.Mobile.App.Services/bin/Release/netstandard2.0/Osma.Mobile.App.Services.pdb
+/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Osma.Mobile.App.Services/obj/Release/netstandard2.0/Osma.Mobile.App.Services.AssemblyInfoInputs.cache
+/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Osma.Mobile.App.Services/obj/Release/netstandard2.0/Osma.Mobile.App.Services.AssemblyInfo.cs
+/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Osma.Mobile.App.Services/obj/Release/netstandard2.0/Osma.Mobile.App.Services.dll
+/Users/ravitejasriram/Documents/ProjectOsmaNew/osma/src/Osma.Mobile.App.Services/obj/Release/netstandard2.0/Osma.Mobile.App.Services.pdb
